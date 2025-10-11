@@ -8,7 +8,7 @@ A master of steel and discipline.
 Your blade is an extension of your will.  
 *High Strength • High Defense • Low Magic*
 
-[➡️ Choose Fighter](#fighter)
+- [➡️ Choose Fighter](./F-scene1.md)
 
 ---
 
@@ -17,6 +17,6 @@ Born with the gift of arcane energy.
 You wield knowledge as your greatest weapon.  
 *High Magic • Low Defense • High Intelligence*
 
-[➡️ Choose Sorcerer](#sorcerer)
+- [➡️ Choose Sorcerer](./S-scene1.md)
 
 ---
