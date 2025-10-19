@@ -1,8 +1,8 @@
 # 🪨 Scene 6b: The Cave 
 
-"Watch your step"
+"A light in the dark"
 
-As you enter the cave your eyes start to adjust to what light remains inside. How will you proceed?
+As your spell illuminates your surroundings, you see several small wolves passed you out of the cave. Once theyve cleared, you begin to loo around a see a trail of carnage leading deeper into the caves depths. Theres definetly been a battle here, someone else is after the crystal. How will you react?
 
--   [Cast Mage Light and create a sphere of light that illuminates your surroundings.](.S-scene6b)
--   [Proceed into the depths of the cave with no additional light.](.S-scene6c)
+-   [Follow the carnage deeper into the cave.](.S-scene7a)
+-   [Take a moment to contemplate if you should advance further](.S-scene7END)
