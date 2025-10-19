@@ -6,4 +6,4 @@ The men nod back at you as you pass and take your seat, your deception worked. T
 
 -   [Leave for the Cave immediately](.S-scene4END)
 -   [Wait for morning to head out](.S-scene4a)
--   {Wait for the men to head out and follow behind the them as they head to the cave}(.S-scene4END)
+-   [Wait for the men to head out and follow behind the them as  they head to the cave](.S-scene4END)
