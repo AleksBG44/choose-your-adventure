@@ -1,4 +1,4 @@
-# 🪨 Scene 6: The Cave 
+# 🪨 Scene 6a: The Cave 
 
 "Watch your step"
 
