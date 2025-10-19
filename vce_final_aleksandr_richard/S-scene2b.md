@@ -1,4 +1,4 @@
-# 🏠 Scene 2a: Tavern
+# 🏠 Scene 2b: Tavern
 
 "Not your business"
 
