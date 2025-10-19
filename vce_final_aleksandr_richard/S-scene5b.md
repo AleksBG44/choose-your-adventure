@@ -4,4 +4,4 @@
 
 If youve learned anything its to never stray from the path. Your persitance is rewarded as you near the cave entrance.
 
--   [Approach the cave and enter.](./S-scene6)
+-   [Approach the cave and enter.](./S-scene6a)
